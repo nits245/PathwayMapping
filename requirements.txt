@@ -1,0 +1,20 @@
+# Numerical & ML
+numpy
+scikit-learn
+
+# Data handling & plotting
+pandas
+plotly
+
+# Deep learning
+tensorflow
+
+# Graph algorithms
+networkx
+
+# GUI
+PyQt5
+PyQtWebEngine
+
+# Excel support for .xls files
+xlrd
